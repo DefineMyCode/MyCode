@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "判断一个字符串是不是一个由左旋得到的", "判断一个字符串是不是一个由左旋得到的\判断一个字符串是不是一个由左旋得到的.vcxproj", "{A6031DD3-59CE-4CBF-91CE-407E14254FB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6031DD3-59CE-4CBF-91CE-407E14254FB3}.Debug|x64.ActiveCfg = Debug|x64
+		{A6031DD3-59CE-4CBF-91CE-407E14254FB3}.Debug|x64.Build.0 = Debug|x64
+		{A6031DD3-59CE-4CBF-91CE-407E14254FB3}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6031DD3-59CE-4CBF-91CE-407E14254FB3}.Debug|x86.Build.0 = Debug|Win32
+		{A6031DD3-59CE-4CBF-91CE-407E14254FB3}.Release|x64.ActiveCfg = Release|x64
+		{A6031DD3-59CE-4CBF-91CE-407E14254FB3}.Release|x64.Build.0 = Release|x64
+		{A6031DD3-59CE-4CBF-91CE-407E14254FB3}.Release|x86.ActiveCfg = Release|Win32
+		{A6031DD3-59CE-4CBF-91CE-407E14254FB3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63F3F7D-52A5-481A-9850-9B771A3F1FA3}
+	EndGlobalSection
+EndGlobal
